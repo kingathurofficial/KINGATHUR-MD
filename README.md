@@ -99,7 +99,7 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF KINGATHUR-MD 
-- [Lord Malvin ](https://github.com/kingathurofficial)
+- [Lord Athur ](https://github.com/kingathurofficial)
 - Creater and Owner Of KINGATHUR-MD
 
 > KINGATHUR-MD Helper
